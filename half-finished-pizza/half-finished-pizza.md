@@ -19,3 +19,14 @@ Now, we should introduce the half-finished pizza which is anticlimactic since it
 Now, we only need to setup a plane to where we apply the rotations since it does not make sense without it. Imagine a cartesian plane. Change the $x-$axis to <kbd>real axis</kbd> and the y-axis to <kbd>imaginary axis</kbd> (the points here are $i, 2i, 3i$.) Now, the rotations are possible! For example, if our point is on the $+1$ of the real axis, then applying 90-degree rotation should change our point to $i$. We are now close! Our 180-degree rotation, therefore, changes the point $+1$ to $-1$. And yey, we are done. By now, we should be clapping our hands to pay respects for Euler (again) for this equation. By the way, the final step is therefore, changing the form of $e^{i\pi}$ to $-1$ and then add this to $1$. We should get $0$! (this is not factorial, just to be clear. I am just as elated as you haha.) 
 
 And that's how we read <kbd>Euler's Equation</kbd>.
+
+---
+`Extended Reading`
+The <kbd>Euler's Equation</kbd> has so much applications in the real world. For instance, <kbd>wave functions</kbd> (Pedro,2021) and <kbd>circuits</kbd> (M.Malarvizhi, 2021) are some of the most notable ones to list. To know more about the <kbd>Euler's Equation and Identity</kbd>, check the lecture from <kbd>Khan Academy</kbd> below:
+
+> https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-14/v/euler-s-formula-and-euler-s-identity#:~:text=Euler%27s%20formula%20is%20e%E2%81%B1%CB%A3%3Dcos,(x)%2C%20and%20e%CB%A3.
+
+References:
+>[1] Malarvizhi, M. "Diagonally implicit and explicit Euler’s methodsfor RLC circuit", Turkish Journal of Computer and Mathematics Education, 2021.
+>
+>[2] Pedro, L. "Relating the wave-function collapse with Euler’s formula, with applications to Classical Statistical Field Theory", 2021.

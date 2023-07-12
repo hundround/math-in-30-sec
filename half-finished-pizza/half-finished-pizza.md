@@ -27,7 +27,7 @@ The <kbd>Euler's Equation</kbd> has so much applications in the real world. For 
 
 > [Khan Academy: Euler's Formula and Identity](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-14/v/euler-s-formula-and-euler-s-identity#:~:text=Euler%27s%20formula%20is%20e%E2%81%B1%CB%A3%3Dcos,(x)%2C%20and%20e%CB%A3.)
 
-References:
+`References:`
 >[1] Malarvizhi, M. "Diagonally implicit and explicit Euler’s methodsfor RLC circuit", Turkish Journal of Computer and Mathematics Education, 2021.
 >
 >[2] Pedro, L. "Relating the wave-function collapse with Euler’s formula, with applications to Classical Statistical Field Theory", 2021.

@@ -14,9 +14,9 @@ $$e^{i\pi/2}\cdot e^{i\pi/2}\cdot e^{i\pi/2}\cdot e^{i\pi/2} = e^{2i\pi}$$
 
 which is another full-<kbd>circle</kbd> moment! 
 
-Now, we should introduce the half-finished pizza which is anticlimactic since it is just the simple <kbd>semicircle</kbd>. That is, we rotate that 1-unit 180-degrees. Exactly, it is equal to $e^{i\pi}$. 
+Now, we should introduce the half-finished pizza. Kind of anticlimactic that phrase as it is just the simple <kbd>semicircle</kbd>. That is, we rotate that 1-unit 180-degrees. Exactly, it is equal to $e^{i\pi}$. 
 
-Now, we only need to setup a plane to where we apply the rotations since it does not make sense without it. Imagine a cartesian plane. Change the $x-$axis to <kbd>real axis</kbd> and the y-axis to <kbd>imaginary axis</kbd> (the points here are $i, 2i, 3i$.) Now, the rotations are possible! For example, if our point is on the $+1$ of the real axis, then applying 90-degree rotation should change our point to $i$. We are now close! Our 180-degree rotation, therefore, changes the point $+1$ to $-1$. And yey, we are done. By now, we should be clapping our hands to pay respects for Euler (again) for this equation. By the way, the final step is therefore, changing the form of $e^{i\pi}$ to $-1$ and then add this to $1$. We should get $0$! (this is not factorial, just to be clear. I am just as elated as you haha.) 
+Now, we only need to setup a plane to where we apply the rotations since it does not make sense without it. Imagine a cartesian plane. Change the x-axis to <kbd>real axis</kbd> and the y-axis to <kbd>imaginary axis</kbd> (the points here are $i, 2i, 3i$...) Now, the rotations are possible! For example, if our point is on the $+1$ of the real axis, then applying 90-degree rotation should change our point to $i$. We are now close! Our 180-degree rotation, therefore, changes the point $+1$ to $-1$. And yey, we are done. By now, we should be clapping our hands to pay respects for Euler (again) for this equation. By the way, the final step is therefore, changing the form of $e^{i\pi}$ to $-1$ and then add this to $1$. We should get $0$! (this is not factorial, just to be clear. I am just as elated as you haha.) 
 
 And that's how we read <kbd>Euler's Equation</kbd>.
 

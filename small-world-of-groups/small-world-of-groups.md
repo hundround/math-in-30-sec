@@ -1,0 +1,3 @@
+`Small world of Groups`
+---
+I decided to make a jump from <kbd>analysis</kbd> to <kbd>algebra</kbd> which is not a huge jump to take in the first place. You know, I have been wondering why aren't all of us are introduced in the world of <b>Groups</b> eventhough we're using it every time we're accessing the mere number, say $1$ or $2$ or $\pi$ (absurd, lmao). For what its worth, <b>Groups</b> are worth our time! They are one of the slickest, if not the slickest, of math I encountered thus far.

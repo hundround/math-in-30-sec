@@ -1,3 +1,6 @@
+# An animation of rotation using the function e^{i\pi/k} for k in [0,2pi). Note that when k = pi, the point is in -1. Use this to show that the
+# Euler's Equation is true. 
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation

@@ -18,7 +18,7 @@ This is fun, right? Haha, no. But it was handy indeed to talk about groups in ge
 - Inverses are also here. They are the negative numbers. We have for any person (real number) $a$, $a+a^{-1} = 0$. This implies that
   $$a+a^{-1} = 0 \longrightarrow a^{-1} = -a+0 = -a.$$ 
 
-And we're done showing that the set of real numbers is a group under addition $+$!
+And we're done showing that the set of real numbers is a group under addition $+$. Would you mind if I require you to show that the set of real numbers is a group under multiplication $\times$? See it for yourself!
 
 ---
 `References` <br>

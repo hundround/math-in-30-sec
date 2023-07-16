@@ -1,4 +1,4 @@
-`Small world of Groups`
+`Small World of Groups`
 ---
 I decided to make a jump from <kbd>analysis</kbd> to <kbd>algebra</kbd> which is not a huge jump to take in the first place. You know, I have been wondering why aren't all of us are introduced to the world of <b>Groups</b> even though we're using it every time we're accessing a mere number, say $1$ or $2$ or $\pi$ (absurd, lmao). For what it's worth, <b>Groups</b> are  important for us! They are one of the slickest, if not the slickest, of maths I encountered thus far.
 

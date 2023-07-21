@@ -24,9 +24,9 @@ Using Fermat's little (read this in the tiniest voice you can make lmao) theorem
 $$2^{18} \bmod 7\longrightarrow 2^{7(2)+4}\bmod 7 \longrightarrow 2^{7(2)}\cdot 2^4\bmod 7.$$
 
 by laws of exponents. Now, we can apply the third noted rule we have for Modulo. That is, we reduce each factor to modulo $7$. But since the first factor, $2^{7(2)}$ is suited for FLT, we have
-$$2^{7(2)}\cdot 2^4\bmod 7\equiv 2\cdot 2^4\bmod 7 \longrightarrow 2(16)\bmod 7 \equiv 2(2) \bmod 7 \equiv 4.$$
+$$2^{7(2)}\cdot 2^4\bmod 7\equiv 2^2\cdot 2^4\bmod 7 \longrightarrow 4(16)\bmod 7 \equiv 4(2) \bmod 7 \equiv 1.$$
 
-And we got it! Tri should go to Earth school every 4th day of the week!
+And we got it! Tri should go to Earth school every 1st day of the week!
 
 --- 
 `References`

@@ -17,3 +17,4 @@ Should you have any questions, feel free to connect with me through my email: <k
 `Contents`
 * [Half-finished Pizza: The Euler's Equation](half-finished-pizza/half-finished-pizza.md)
 * [Small World of Groups](small-world-of-groups/small-world-of-groups.md)
+* [An Infinite Calendar: The Modulo](an-infinite-calendar/an-infinite-calendar.md)

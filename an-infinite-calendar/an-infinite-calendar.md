@@ -1,4 +1,4 @@
-`An Infinite Calendar: The Modular Arithmetic`
+`Tri's Big Day: The Modular Arithmetic`
 ---
 In a faraway land, so far that gravity exists unstably, there was an advanced civilization superior to that of Earth. The people there have eyes that can identify an object even from a mile of distance. I don't know, maybe they needed it so thus evolution. Anyway, there's this kid named <kbd>Tri</kbd>. He has a class every $2^{18}$ th day of the week. Kind of weird how they count, right? Well, I forgot to say it but in their world, there are 12 days in a week; it is not <i>week</i> they call it, it is <kbd>semaine</kbd>. 
 

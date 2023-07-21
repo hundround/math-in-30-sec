@@ -17,4 +17,4 @@ Should you have any questions, feel free to connect with me through my email: <k
 `Contents`
 * [Half-finished Pizza: The Euler's Equation](half-finished-pizza/half-finished-pizza.md)
 * [Small World of Groups](small-world-of-groups/small-world-of-groups.md)
-* [Tri's Big Day: The Modulo](tris-big-day/tris-big-day.md)
+* [Tri's Big Day: The Modular Arithmetic](tris-big-day/tris-big-day.md)

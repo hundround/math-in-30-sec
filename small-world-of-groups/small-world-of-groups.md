@@ -12,13 +12,13 @@ $$a*e = e *a = a.$$ <br>
 - Every person has an inverted doppelganger (lmao). Say, for instance, a person $a$. Then within the same world, $a^{-1}$ exists. And that $e$ is an accomplice of this doppelganger $a^{-1}$. We have
 $$a*a^{-1} = e = a^{-1}*a.$$ <br>
 
-This is fun, right? Haha, no. But it was handy indeed to talk about groups in general. This idea of generalizing things is a working thought in all of <kbd>Abstract Algebra</kbd>. Sometimes we might ask ourselves the essence of these, and to do that, always try to apply the generality to a particular case. The groups for instance can be applied to the set of real numbers. Who are the people in it? Any real numbers you can think of. What is their language? There are two: addition $+$ and multiplication $\times$. Either of them can be. How do we check if this set is indeed a group? Let's try to pick three real numbers, say $1$, $2$, and $4$. We have
+This is fun, right? Haha, no. But it was handy indeed to talk about groups in general. This idea of generalizing things is a working thought in all of <kbd>Abstract Algebra</kbd>. Sometimes we might ask ourselves the essence of these, and to do that, always try to apply the generality to a particular case. The groups for instance can be applied to the set of real numbers. Who are the people in it? Any real numbers you can think of. What is their language? We have addition $+$ How do we check if this set is indeed a group? Let's try to pick three real numbers, say $1$, $2$, and $4$. We have
 - $(1+2)+4 = 7 = 1+(2+4)$. Hence, associativity works well.
 - The identity $e$ here is $0$ for addition since $1+0 = 1 = 0+1$. 
 - Inverses are also here. They are the negative numbers. We have for any person (real number) $a$, $a+a^{-1} = 0$. This implies that
   $$a+a^{-1} = 0 \longrightarrow a^{-1} = -a+0 = -a.$$ 
 
-And we're done showing that the set of real numbers is a group under addition $+$. Would you mind if I require you to show that the set of real numbers is a group under multiplication $\times$? See it for yourself!
+And we're done showing that the set of real numbers is a group under addition $+$. How about multiplication? Is the set of real numbers a group under multiplication $\times$? Prove or disprove it for yourself!
 
 ---
 `References` <br>
